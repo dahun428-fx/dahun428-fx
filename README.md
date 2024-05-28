@@ -55,7 +55,10 @@ Here are some ideas to get you started:
 ---
 
    ### 😄 Resume   
-   https://dahun428-fx.github.io/resume
+   https://dahun428-fx.github.io/resume   
+
+   ### 🌱 Blog
+   https://dahun429.tistory.com/
    
    ### 📫 Contact
    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubcustomer@gmail.com)](mailto:rubcustomer@gmail.com)
