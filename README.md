@@ -66,8 +66,9 @@ Here are some ideas to get you started:
    
    ### ⚡ Portfolio   
 
-   ##### [영화 검색 웹 어플리케이션](https://my-ticket-theta.vercel.app/)
-   ##### [범죄현황 대시보드 웹 어플리케이션](https://next-canvas-pied.vercel.app/)
+   ##### [영화 검색 웹 어플리케이션](https://my-ticket-theta.vercel.app/)   (github : https://github.com/dahun428-fx/my-ticket)
+   
+   ##### [범죄현황 대시보드 웹 어플리케이션](https://next-canvas-pied.vercel.app/)    (github : https://github.com/dahun428-fx/next_canvas)
 
   
 
