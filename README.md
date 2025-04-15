@@ -1,20 +1,5 @@
-
 <!--
 ## Hi there 👋
--->
-<!--
-**dahun428-fx/dahun428-fx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I%20Love%20Web!&fontSize=60&desc=This%20is%20Jung's%20github)
@@ -28,6 +13,7 @@ Here are some ideas to get you started:
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)   
 
 #### Framework & Library   
@@ -36,6 +22,8 @@ Here are some ideas to get you started:
 ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white)
+![langchain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -54,8 +42,9 @@ Here are some ideas to get you started:
 ![sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 
-#### ect   
+#### etc   
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -64,7 +53,7 @@ Here are some ideas to get you started:
 ### 😄 Resume   
 https://dahun428-fx.github.io/resume   
 
-### 🌱 Blog
+### 🌱 Blog  
 https://dahun429.tistory.com/
 
 ### 📫 Contact  
@@ -80,3 +69,7 @@ https://dahun429.tistory.com/
 
 ##### 📊 [범죄현황 대시보드 웹 어플리케이션](https://next-canvas-pied.vercel.app/)  
 > GitHub: [https://github.com/dahun428-fx/next_canvas](https://github.com/dahun428-fx/next_canvas)
+
+##### 🔮 [운세TMI - LLM 기반 운세 서비스](https://my-fortune-app-five.vercel.app/ko)  
+> GitHub: [https://github.com/dahun428-fx/fortune-tmi](https://github.com/dahun428-fx/fortune-tmi)  
+> LLM 기반 운세 앱. FastAPI + LangChain + Groq 연동, Next.js 13 기반 다국어 처리, Toast 알림 및 Zustand 상태 관리, GitHub Actions + Railway 배포 자동화 구성.
