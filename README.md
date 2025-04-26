@@ -71,5 +71,5 @@ https://dahun429.tistory.com/
 > GitHub: [https://github.com/dahun428-fx/next_canvas](https://github.com/dahun428-fx/next_canvas)
 
 ##### 🔮 [운세TMI - LLM 기반 운세 서비스](https://my-fortune-app-five.vercel.app/ko)  
-> GitHub: [https://github.com/dahun428-fx/fortune-tmi](https://github.com/dahun428-fx/fortune-tmi)  
+> GitHub: [https://github.com/dahun428-fx/my_fortune_app](https://github.com/dahun428-fx/my_fortune_app)  
 > LLM 기반 운세 앱. FastAPI + LangChain + Groq 연동, Next.js 13 기반 다국어 처리, Toast 알림 및 Zustand 상태 관리, GitHub Actions + Railway 배포 자동화 구성.
